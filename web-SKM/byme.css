@@ -1,0 +1,8 @@
+body {
+    background-image:url("/home/tux/Escritorio/HTML5-CSS/assets/img/spider-135648-1024x576.jpg");
+    background-size:cover; 
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: black;
+}
